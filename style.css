@@ -20,7 +20,10 @@ body{
     background-color: black;
     margin-top: 100px;
     display: inline-block;
-    margin-left: -125px;
+    /* margin-left: -125px; */
+    position: absolute;
+    left: 240px;
+    top: 43px;
 }
 .tbox{
     border: 5px solid red;
